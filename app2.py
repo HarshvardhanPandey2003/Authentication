@@ -1,1 +1,1 @@
-print("Monkeys Secret")
+print("Hello, world!")
